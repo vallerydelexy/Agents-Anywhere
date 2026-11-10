@@ -8,6 +8,7 @@
 | 查看每个版本改了什么 | [更新日志](../CHANGELOG.md) |
 | 查看 2.2.0 的接口变化与各端最低版本 | [2.2.0 发布说明](releases/2.2.0.md)（日期待定）；上一版见 [2.1.0](releases/2.1.0.md)，安装包记录见 [2.0.3](releases/2.0.3.md)，历史版本见 [2.0.0](releases/2.0.0.md) |
 | 部署自己的服务 | [Docker](../docker/README.md)、[Server](../server/README.md) |
+| 从零搭建 Mac Server、Windows 工作机、Android 和 Tailscale | [从零搭建自托管环境](self-hosting-from-scratch.md) |
 | 升级已有部署或从 v1 迁移 | [升级指南](upgrading.md) |
 | 版本号含义与发版规则 | [版本号规则](versioning.md) |
 | 源码运行与 headless 验证 | [开发指南](development.md) |

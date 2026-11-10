@@ -34,7 +34,7 @@
 
 展开连接自己的服务实例的选项，填入服务地址并登录。首次部署的管理员需要从 Server 日志取得 setup token，在 Web 完成首位管理员设置。后续账号由该实例的注册策略和管理员管理。
 
-使用 Connector CLI 时，`--server-url` 填写服务根地址，例如 `https://aa.example.com`，省略 `/api/v2`。部署步骤见 [Docker 文档](../docker/README.md)。
+使用 Connector CLI 时，`--server-url` 填写服务根地址，例如 `https://aa.example.com`，省略 `/api/v2`。部署步骤见 [Docker 文档](../docker/README.md)；包含 Mac Server、Windows 工作机、Android 和 Tailscale 的完整从零步骤见 [从零搭建自托管环境](self-hosting-from-scratch.md)。
 
 ## 3. 连接工作设备并创建会话
 
